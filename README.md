@@ -3,7 +3,7 @@
 <h3>Environment Requirement</h3>
 - python 3.5 <br>
 - matplotlib <br>
-- pyBox2d <br>
+- pybox2d <br>
 - pygame
 
 <h3>Running Commands</h3>
